@@ -1,0 +1,14 @@
+This is the source code for a school project back in 2021. The VCS
+information has been reset because I used my school email address
+back then and do not want to reveal such information.
+
+The project was essentially about making a "car"
+- move forward without turning left or right,
+- stop at some distance in front of an obstacle, and
+- move backward if the obstacle moves toward the car.
+
+As an additional feature, I implemented some basic controls over the
+serial port. Considering that this is a school project (and that I
+have, in my opinion, documented the code quite well, albeit in German),
+figuring out and extending the control system is left an exercise for
+the reader.
